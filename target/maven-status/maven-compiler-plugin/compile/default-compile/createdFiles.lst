@@ -1,8 +1,0 @@
-com\ssmclg\studentmngt\dto\StudentDTO$StudentDTOBuilder.class
-com\ssmclg\studentmngt\controllers\StudentController.class
-com\ssmclg\studentmngt\services\StudentService.class
-com\ssmclg\studentmngt\enitities\StudentEntity.class
-com\ssmclg\studentmngt\enitities\StudentEntity$StudentEntityBuilder.class
-com\ssmclg\studentmngt\dto\StudentDTO.class
-com\ssmclg\studentmngt\repository\StudentRepository.class
-com\ssmclg\studentmngt\StudentmngtApplication.class
